@@ -1,2 +1,2 @@
 # roshani-demo
-This is Demo Git &amp; GitHub  class.
+This is Demo Git &amp; GitHub  class
